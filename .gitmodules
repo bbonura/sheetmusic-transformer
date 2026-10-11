@@ -1,0 +1,3 @@
+[submodule "PDMX-tools"]
+	path = PDMX-tools
+	url = https://github.com/pnlong/PDMX.git
